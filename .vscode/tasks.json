@@ -7,7 +7,7 @@
             "type": "shell",
             "args": [
                 "build",
-                "${workspaceFolder}/LossyLab/LossyLab.vbproj", // Adjust this line
+                "${workspaceFolder}/LossyLab/LossyLab.vbproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
